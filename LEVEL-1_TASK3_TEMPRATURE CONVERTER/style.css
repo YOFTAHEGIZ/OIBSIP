@@ -1,0 +1,28 @@
+body{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+    text-align: center;
+}
+#temprature{
+    display:block;
+    border-radius: 10 px;
+    padding:10 px;
+}
+label{
+    display: block;
+    padding:25 px;
+}
+.convert{
+    margin-top:20 px;
+}
+#Btn{
+    padding: 10px 20px; 
+    font-size: 16px; 
+    border: none; 
+    cursor: pointer; 
+    border-radius: 4px;
+    background-color: aquamarine;
+    color:black;
+    font-weight: bold;
+}
